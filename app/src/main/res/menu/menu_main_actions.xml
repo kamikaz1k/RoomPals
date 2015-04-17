@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- Search, should appear as action button -->
+    <item android:id="@+id/action_search"
+        android:title="button1"
+        android:showAsAction="ifRoom" />
+
+    <!-- Search, should appear as action button -->
+    <item android:id="@+id/action_new_item"
+        android:icon="@android:drawable/ic_input_delete"
+        android:title="button2"
+        android:showAsAction="ifRoom" />
+
+    <!-- Search, should appear as action button -->
+    <item android:id="@+id/action_refresh"
+        android:icon="@android:drawable/ic_input_get"
+        android:title="button3"
+        android:showAsAction="ifRoom" />
+
+    <!-- Search, should appear as action button -->
+    <item android:id="@+id/action_delete_all_items"
+        android:title="@string/action_settings"
+        android:showAsAction="never" />
+
+</menu>

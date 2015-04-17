@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Room Pals</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Profile Page</item>
+        <item >Home (Not Literally)</item>
+        <item >Chores List</item>
+        <item >Calendar</item>
+        <item >Chat</item>
+        <item >Manage Group</item>
+        <item >Blank Item</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+
+    <array name="nav_drawer_icons">
+        <item>@android:drawable/ic_media_pause</item>
+        <item>@android:drawable/ic_menu_myplaces</item>
+        <item>@android:drawable/ic_menu_agenda</item>
+        <item>@android:drawable/ic_menu_my_calendar</item>
+        <item>@android:drawable/ic_menu_call</item>
+        <item>@android:drawable/ic_menu_manage</item>
+    </array>
+
+    <string-array name="list_of_chores">
+        <item>Clean Dishes</item>
+        <item>Fix the Flux Capacitor</item>
+        <item>Wash the Cat</item>
+        <item>Club with baby seals</item>
+        <item>Claim the roof</item>
+        <item>Get Groceries</item>
+    </string-array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="banner_background">#1E5B99</color>
+    <color name="banner_text">#FFFFFF</color>
+    <color name="fragment_background">#efefef</color>
+
+    <color name="list_item_title">#3f3f3f</color>
+
+    <color name="list_divider">#e5e5e5</color>
+    <color name="list_selector">#C1E2A3</color>
+    <color name="list_background">#f2f2f2</color>
+    <color name="list_background_pressed">#9E9E9E</color>
+    <color name="list_background_selected">#BBCDE0</color>
+    <color name="counter_text_bg">#e50000</color>
+    <color name="counter_text_color">#FFF</color>
+
+</resources>
